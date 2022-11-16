@@ -1,0 +1,844 @@
+@media only screen and (max-device-width: 900px) {
+    /* .menu { width:100%; } */
+}
+
+#Desktop{
+ 
+    position: relative;
+    width: 1440px;
+    height: 4523px;
+
+    background: #FFFFFF;
+}
+
+#template_1{
+    position: absolute;
+    width: 1900px;
+    height: 225px;
+    left: 0px;
+    top: -34px;
+
+    background: #260341;
+    border-radius: 27px;
+
+}
+
+#template_2{
+    position: absolute;
+    width: 1900px;
+    height: 450px;
+    top: 240px;
+    left: 100px;
+    background: #56009A;
+    border-radius: 27px;
+
+}
+
+#Uva{
+
+    position: absolute;
+    width: 140px;
+    height: 36px;
+    left: 145px;
+    top: 66px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 36px;
+    text-transform: capitalize;
+
+    color: #E700FF;  
+
+}
+
+#Verde{
+        position: absolute;
+        width: 140px;
+        height: 36px;
+        left: 200px;
+        top: 66px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 31px;
+        line-height: 36px;
+        text-transform: capitalize;
+    
+        color:rgba(11, 217, 4, 1)
+    
+}
+
+#Sobre{
+
+    position: absolute;
+    width: 50px;
+    height: 26px;
+    left: 546px;
+    top: 76px;
+
+    font-family: 'Voces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+#Ofertas{
+    
+
+    position: absolute;
+    width: 69px;
+    height: 26px;
+    left: 872px;
+    top: 76px;
+
+    font-family: 'Voces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+#contato{   
+
+    position: absolute;
+    width: 71px;
+    height: 26px;
+    left: 1200px;
+    top: 75px;
+
+    font-family: 'Voces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+#Whats{
+
+    position: absolute;
+    left: 81.18%;
+    right: 15.58%;
+    top: 1.46%;
+    bottom: 97.51%;
+
+    height: 46.599998474121094px;
+    width: 46.599998474121094px;
+    left: 1569px;
+    top: 74px;
+    border-radius: 0px;
+
+}
+
+#insta{
+    position: absolute;
+    left: 85.76%;
+    right: 11%;
+    top: 1.46%;
+    bottom: 97.51%;
+
+    height: 46.599998474121094px;
+    width: 46.599998474121094px;
+    left: 1635px;
+    top: 74px;
+    border-radius: 0px;
+
+}
+
+#face{
+    
+    position: absolute;
+    left: 90.35%;
+    right: 6.42%;
+    top: 1.46%;
+    bottom: 97.51%;
+
+    height: 46.599998474121094px;
+    width: 46.599998474121094px;
+    left: 1701px;
+    top: 74px;
+    border-radius: 0px;
+
+}
+
+#txt{
+    position: absolute;
+    width: 520px;
+    height: 26px;
+    left: 150px;
+    top: 320px;
+
+    font-family: 'Voces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+#txt_1{
+    position: absolute;
+    width: 650px;
+    height: 26px;
+    left: 150px;
+    top: 352px;
+
+    font-family: 'Voces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+#txt_2{
+    position: absolute;
+    width: 680px;
+    height: 26px;
+    left: 150px;
+    top: 410px;
+
+    font-family: 'Voces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+
+#txt_3{
+    position: absolute;
+    width: 680px;
+    height: 26px;
+    left: 150px;
+    top: 472px;
+
+    font-family: 'Voces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+#txt_4{
+    position: absolute;
+    width: 680px;
+    height: 26px;
+    left: 150px;
+    top: 532px;
+
+    font-family: 'Voces';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+
+#ri{
+    position: absolute;
+    width: 256px;
+    height: 425px;
+    left: 980px;
+    top: 265px;
+
+}
+
+#ri1{
+    position: absolute;
+    width: 256px;
+    height: 495px;
+    left: 1300px;
+    top: 225px;
+
+}
+
+#ri2{
+    position: absolute;
+    width: 256px;
+    height: 495px;
+    left: 1600px;
+    top: 220px;
+
+}
+
+
+#template_3{
+
+    position: absolute;
+    width: 1891px;
+    height: 629px;
+    left: -323px;
+    top: 741px;
+
+    background: #4DDBD2;
+    border-radius: 26px;
+
+}
+
+#destaque{
+
+    position: absolute;
+    width: 147px;
+    height: 36px;
+    left: 112px;
+    top: 802px;
+
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 31px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+#tela_1{
+
+    position: absolute;
+    width: 343px;
+    height: 425px;
+    left: 1160px;
+    top: 895px;
+
+    background: #565656;
+    border-radius: 57px;
+}
+
+#reta_1{
+
+    position: absolute;
+    width: 70px;
+    height: 425px;
+    left: 1158px;
+    top: 895px;
+
+    background: #F2DBAE;
+    border-radius: 57px;
+}
+
+#tela_2{
+
+    position: absolute;
+    width: 343px;
+    height: 425px;
+    left: 651px;
+    top: 895px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+#reta_2{
+
+    position: absolute;
+    width: 70px;
+    height: 425px;
+    left: 649px;
+    top: 895px;
+
+    background: #ED6FFA;
+    border-radius: 57px;
+}
+
+#tela_3{
+
+    position: absolute;
+    width: 343px;
+    height: 425px;
+    left: 128px;
+    top: 895px;
+
+    background: #565656;
+    border-radius: 57px;
+}
+
+#reta_3{
+
+    position: absolute;
+    width: 70px;
+    height: 425px;
+    left: 126px;
+    top: 895px;
+    
+    background: #03658C;
+    border-radius: 57px;
+}
+
+#template_4{
+
+    position: absolute;
+    width: 1851px;
+    height: 530px;
+    left: 195px;
+    top: 1442px;
+    
+    background: #ED6FFA;
+    border-radius: 26px;
+
+}
+
+#meninas{
+
+    
+    position: absolute;
+    width: 208px;
+    height: 69px;
+    left: 285px;
+    top: 1427px;
+
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 69px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
+
+#tela_4{
+
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 285px;
+    top: 1541px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela4_1{
+
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 680px;
+    top: 1541px;
+
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela4_2{
+
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 1080px;
+    top: 1541px;
+
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela4_3{
+
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 1482px;
+    top: 1537px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+#template_5{
+    
+    position: absolute;
+    width: 1891px;
+    height: 547px;
+    left: -323px;
+    top: 2050px;
+
+    background: #0A175C;
+    border-radius: 26px;
+
+}
+
+#meninos{
+
+    position: absolute;
+    width: 210px;
+    height: 69px;
+    left: 85px;
+    top: 2040px;
+    
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 69px;
+    /* identical to box height */
+    
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+}
+
+#tela_5{
+
+    position: absolute;
+    width: 279px;
+    height: 359px;
+    left: 80px;
+    top: 2170px;
+
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela5_1{
+
+    position: absolute;
+    width: 279px;
+    height: 359px;
+    left: 460px;
+    top: 2170px;
+
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela5_2{
+    
+    position: absolute;
+    width: 279px;
+    height: 359px;
+    left: 820px;
+    top: 2170px;
+
+    background: #565656;
+    border-radius: 57px;
+
+}
+
+#tela5_3{
+
+    position: absolute;
+    width: 279px;
+    height: 359px;
+    left: 1185px;
+    top: 2170px;
+
+    background: #565656;
+    border-radius: 57px;
+
+}
+
+#template_6{
+    
+    position: absolute;
+    width: 1856px;
+    height: 568px;
+    left: 195px;
+    top: 2670px;
+    
+    background: #F2D7AE;
+    border-radius: 26px;
+    transform: rotate(180deg);
+}
+
+#bebes{
+
+    position: absolute;
+    width: 157px;
+    height: 69px;
+    left: 285px;
+    top: 2675px;
+
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 69px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+
+}
+
+#tela_6{
+
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 285px;
+    top: 2820px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela6_1{
+    
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 680px;
+    top: 2820px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela6_2{
+    
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 1080px;
+    top: 2820px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela6_3{
+    
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 1482px;
+    top: 2820px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+
+#template_7{
+    position: absolute;
+    width: 1891px;
+    height: 547px;
+    left: -323px;
+    top: 3320px;
+
+    background: #ED8643;
+    border-radius: 57px;
+}
+
+#calçados{
+    position: absolute;
+    width: 157px;
+    height: 69px;
+    left: 85px;
+    top: 3320px;
+
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 69px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+}
+
+#tela_7{
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 440px;
+    top: 3460px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela7_1{
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 85px;
+    top: 3460px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela7_2{
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 800px;
+    top: 3460px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+#tela7_3{
+    position: absolute;
+    width: 274px;
+    height: 359px;
+    left: 1175px;
+    top: 3460px;
+    
+    background: #565656;
+    border-radius: 57px;
+}
+
+
+#template_8{
+
+    position: absolute;
+    width: 1819px;
+    height: 526px;
+    left: 285px;
+    top: 3930px;
+    
+    background: #9630B0;
+    border-radius: 26px;
+}
+
+#info{
+
+    position: absolute;
+    width: 1319px;
+    height: 89px;
+    left: 360px;
+    top: 3949px;
+
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 37px;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+
+}
+
+#info_1{
+
+    position: absolute;
+    width: 1319px;
+    height: 89px;
+    left: 360px;
+    top: 3979px;
+
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 37px;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+
+}
+
+#info_2{
+
+    position: absolute;
+    width: 1319px;
+    height: 89px;
+    left: 360px;
+    top: 4099px;
+
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 37px;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+
+}
+
+#info_3{
+        
+    position: absolute;
+    width: 435px;
+    height: 53px;
+    left: 355px;
+    top: 4250px;
+    
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 53px;
+    /* identical to box height */
+    
+    text-transform: capitalize;
+    
+    color: #FFFFFF;
+}
+
+
+#info_4{
+    position: absolute;
+    width: 709px;
+    height: 56px;
+    left: 345px;
+    top: 4340px;
+
+}
+
+
+
+
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
