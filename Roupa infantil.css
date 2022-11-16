@@ -826,7 +826,16 @@
 
 
 
-#
+#barend{
+    position: absolute;
+    width: 1900px;
+    height: 225px;
+    left: 0px;
+    bottom: -34px;
+
+    background: #260341;
+    border-radius: 27px;
+}
 
 
 
