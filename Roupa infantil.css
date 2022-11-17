@@ -28,6 +28,70 @@ background-image: url(/imagens/telafundo.jpg);
 
 }
 
+#alcoiris{
+
+    position: absolute;
+    width: 397.85px;
+    height: 450.73px;
+    left: -180px;
+    top: -220.79px;
+
+    transform: rotate(129.2deg);
+}
+
+#alcoiris_2{
+    
+    position: absolute;
+    width: 397.85px;
+    height: 400.73px;
+    left: 1660px;
+    top: -220.79px;
+
+
+    transform: rotate(-178.68deg);
+}
+
+#k{
+
+    position: absolute;
+    width: 198px;
+    height: 135px;
+    left: 330px;
+    top: 38px;
+
+
+}
+
+#i{
+
+    position: absolute;
+    width: 152px;
+    height: 116px;
+    left: 659px;
+    top: 52px;
+
+}
+
+#d{
+
+    position: absolute;
+    width: 178px;
+    height: 131px;
+    left: 964px;
+    top: 50px;
+
+}
+
+#s{
+
+    position: absolute;
+    width: 219px;
+    height: 151px;
+    left: 1269px;
+    top: 35px;
+
+}
+
 #template_2{
     position: absolute;
     width: 1780px;
@@ -45,12 +109,12 @@ background-image: url(/imagens/telafundo.jpg);
     width: 140px;
     height: 36px;
     left: 145px;
-    top: 66px;
+    top: 60px;
 
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
-    font-size: 31px;
+    font-size: 40px;
     line-height: 36px;
     text-transform: capitalize;
 
@@ -62,13 +126,13 @@ background-image: url(/imagens/telafundo.jpg);
         position: absolute;
         width: 140px;
         height: 36px;
-        left: 200px;
-        top: 66px;
+        left: 213px;
+        top: 60px;
     
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 31px;
+        font-size: 40px;
         line-height: 36px;
         text-transform: capitalize;
     
@@ -87,7 +151,7 @@ background-image: url(/imagens/telafundo.jpg);
     font-family: 'Voces';
     font-style: normal;
     font-weight: 400;
-    font-size: 19px;
+    font-size: 25px;
     line-height: 26px;
     /* identical to box height */
 
@@ -108,7 +172,7 @@ background-image: url(/imagens/telafundo.jpg);
     font-family: 'Voces';
     font-style: normal;
     font-weight: 400;
-    font-size: 19px;
+    font-size: 25px;
     line-height: 26px;
     /* identical to box height */
 
@@ -129,7 +193,7 @@ background-image: url(/imagens/telafundo.jpg);
     font-family: 'Voces';
     font-style: normal;
     font-weight: 400;
-    font-size: 19px;
+    font-size: 25px;
     line-height: 26px;
     /* identical to box height */
 
@@ -297,7 +361,7 @@ background-image: url(/imagens/telafundo.jpg);
     left: -323px;
     top: 741px;
 
-    background: #4DDBD2;
+    background: #00948A;
     border-radius: 26px;
 
 }
@@ -307,7 +371,7 @@ background-image: url(/imagens/telafundo.jpg);
     position: absolute;
     width: 147px;
     height: 36px;
-    left: 112px;
+    left: 1332px;
     top: 802px;
 
     font-family: 'Red Hat Display';
@@ -576,7 +640,7 @@ background-image: url(/imagens/telafundo.jpg);
     position: absolute;
     width: 210px;
     height: 69px;
-    left: 85px;
+    left: 1265px;
     top: 2040px;
     
     font-family: 'Red Hat Display';
@@ -698,7 +762,7 @@ background-image: url(/imagens/telafundo.jpg);
     left: 195px;
     top: 2670px;
     
-    background: #F2D7AE;
+    background: #C7BF03;
     border-radius: 26px;
     transform: rotate(180deg);
 }
@@ -832,7 +896,7 @@ background-image: url(/imagens/telafundo.jpg);
     position: absolute;
     width: 157px;
     height: 69px;
-    left: 85px;
+    left: 1230px;
     top: 3320px;
 
     font-family: 'Red Hat Display';
