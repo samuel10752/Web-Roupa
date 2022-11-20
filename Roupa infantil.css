@@ -12,9 +12,11 @@ top: 9px;
 border-radius: 0px;
 
 
-background-image: url(/imagens/telafundo.jpg);
+background-image: url(imagens/telafundo.jpg);
 
 }
+
+
 
 #template_1{
     position: absolute;
@@ -232,6 +234,23 @@ background-image: url(/imagens/telafundo.jpg);
     border-radius: 0px;
 
 }
+
+#back-to-top {
+    color:black; /* alterar cor do botão */
+    position: fixed;
+    z-index: 999;
+    bottom: 2rem; /* posição vertical: quanto maior, mais para cima */
+    right: 1rem; /* posição horizontal: quanto maior, mais para esquerda */
+    display:none;
+    }
+    #back-to-top:active, .back-to-top:focus, .back-to-top:hover {
+    text-decoration: none;
+    color:#afb3b0; /* alterar cor do botão quando o mouse estiver em cima ou mobile */
+    }
+    
+    #back-to-top i {
+    font-size: 3em; /* alterar tamanho do botão */
+    }
 
 #txt{
     position: absolute;
