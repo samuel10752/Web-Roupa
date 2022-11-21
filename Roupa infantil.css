@@ -12,7 +12,7 @@ top: 9px;
 border-radius: 0px;
 
 
-background-image: url(imagens/telafundo.jpg);
+background-image: url(imagens/imagem_back/telafundo.jpg);
 
 }
 
@@ -162,6 +162,26 @@ background-image: url(imagens/telafundo.jpg);
 
 }
 
+.topo{
+    text-decoration: none;
+    background: #FFFFFF;
+    position: fixed;
+    bottom: 20px;
+    right: -500px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5s all;
+} 
+
+.show-button .topo{
+    right: 20px;
+    transition: .5s all;
+}
+
 #Ofertas{
     
 
@@ -252,7 +272,7 @@ background-image: url(imagens/telafundo.jpg);
     font-size: 3em; /* alterar tamanho do botão */
     }
 
-#txt{
+#txt_1{
     position: absolute;
     width: 520px;
     height: 26px;
@@ -270,7 +290,7 @@ background-image: url(imagens/telafundo.jpg);
     color: #FFFFFF;
 }
 
-#txt_1{
+#txt_2{
     position: absolute;
     width: 650px;
     height: 26px;
@@ -288,7 +308,7 @@ background-image: url(imagens/telafundo.jpg);
     color: #FFFFFF;
 }
 
-#txt_2{
+#txt_3{
     position: absolute;
     width: 680px;
     height: 26px;
@@ -307,7 +327,7 @@ background-image: url(imagens/telafundo.jpg);
 }
 
 
-#txt_3{
+#txt_4{
     position: absolute;
     width: 680px;
     height: 26px;
@@ -325,7 +345,7 @@ background-image: url(imagens/telafundo.jpg);
     color: #FFFFFF;
 }
 
-#txt_4{
+#txt_5{
     position: absolute;
     width: 680px;
     height: 26px;
@@ -911,7 +931,7 @@ background-image: url(imagens/telafundo.jpg);
     border-radius: 57px;
 }
 
-#calçados{
+#conjuntos{
     position: absolute;
     width: 157px;
     height: 69px;
@@ -979,6 +999,8 @@ background-image: url(imagens/telafundo.jpg);
 }
 
 
+
+
 #tela_7{
     position: absolute;
     width: 274px;
@@ -1036,26 +1058,7 @@ background-image: url(imagens/telafundo.jpg);
     border-radius: 26px;
 }
 
-#info{
-
-    position: absolute;
-    width: 1319px;
-    height: 89px;
-    left: 360px;
-    top: 3949px;
-
-    font-family: 'Red Hat Display';
-    font-style: italic;
-    font-weight: 900;
-    font-size: 28px;
-    line-height: 37px;
-    text-transform: capitalize;
-
-    color: #FFFFFF;
-
-}
-
-#info_1{
+#txt_6{
 
     position: absolute;
     width: 1319px;
@@ -1074,13 +1077,32 @@ background-image: url(imagens/telafundo.jpg);
 
 }
 
-#info_2{
+#txt_7{
 
     position: absolute;
     width: 1319px;
     height: 89px;
     left: 360px;
-    top: 4099px;
+    top: 4020px;
+
+    font-family: 'Red Hat Display';
+    font-style: italic;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 37px;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+
+}
+
+#txt_8{
+
+    position: absolute;
+    width: 1319px;
+    height: 89px;
+    left: 360px;
+    top: 4129px;
 
     font-family: 'Red Hat Display';
     font-style: italic;
@@ -1157,7 +1179,7 @@ background-image: url(imagens/telafundo.jpg);
 
 
 
-#marca9_1{
+#marca_1{
 
     position: absolute;
     width: 70px;
@@ -1167,7 +1189,7 @@ background-image: url(imagens/telafundo.jpg);
 
 }
 
-#marca9_2{
+#marca_2{
 
     position: absolute;
     width: 70px;
@@ -1178,7 +1200,7 @@ background-image: url(imagens/telafundo.jpg);
     
 }
 
-#marca9_3{
+#marca_3{
 
     position: absolute;
     width: 70px;
@@ -1189,7 +1211,7 @@ background-image: url(imagens/telafundo.jpg);
     
 }
 
-#marca9_4{
+#marca_4{
 
     position: absolute;
     width: 70px;
