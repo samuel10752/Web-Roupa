@@ -1,0 +1,120 @@
+#barra{
+     /* barra */
+
+    position: absolute;
+    width: 1920px;
+    height: 80px;
+    left: 0px;
+    top: -20px;
+    
+    background: #D9D9D9;
+}
+
+#logo{
+    /* logo */
+
+    position: absolute;
+    left: 180px;
+    top: 10px;
+    
+}
+
+#letra_logo{
+    /* U */
+
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 195px;
+    top: -7px;
+    
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+#txt_barra{
+
+    /* NOME DA MARCA */
+
+    position: absolute;
+    width: 122px;
+    height: 22px;
+    left: 232px;
+    top: 2px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+#txt_barra_1{
+
+    /* ONLINE SHOPPING */
+
+    position: absolute;
+    width: 120px;
+    height: 13px;
+    left: 234px;
+    top: 32px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+#sobre{
+
+    /* Sobre */
+
+    position: absolute;
+    width: 93px;
+    height: 25px;
+    left: 1483px;
+    top: 4px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+#contato{
+
+    /* Home */
+
+    position: absolute;
+    width: 112px;
+    height: 25px;
+    left: 1658px;
+    top: 4px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    
+    color: #000000;
+}
