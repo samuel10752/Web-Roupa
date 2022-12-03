@@ -1,61 +1,42 @@
-#barra{
-    /* Titulo barra */
+.navbar_cor{
+
+    /* navbar_cor */
+
 
     position: absolute;
-    width: 1920px;
-    height: 80px;
+    width: 2880px;
+    height: 90px;
     left: 0px;
-    top: -20px;
-    
+    top: 0px;
+
     background: #D9D9D9;
+}
+
+.navbar_img{
+
+    /* navbar imagem_logo */
+
+    position: absolute;
+    left: 190.02px;
+    top: 5px;
 
 }
 
-#logo{
-    /*  Titulo logo */
+.navbar_text h3{
+
+    /* Uva Verde */
+
 
     position: absolute;
-    left: 180px;
-    top: 10px;
-    
-}
-
-#letra_logo{
-    /*  Titulo U */
-
-    position: absolute;
-    width: 60px;
-    height: 60px;
-    left: 195px;
-    top: -7px;
-    
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 28px;
-    line-height: 34px;
-    /* identical to box height */
-
-
-    color: #FFFFFF;
-
-}
-
-#txt_barra{
-
-    /* Titulo NOME DA MARCA */
-
-    position: absolute;
-    width: 122px;
+    width: 191px;
     height: 22px;
-    left: 232px;
-    top: 2px;
+    left: 260px;
+    top: 25px;
 
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 35px;
     line-height: 22px;
     /* identical to box height */
 
@@ -64,185 +45,234 @@
 
 }
 
-#txt_barra_1{
+.navbar_text h4{
 
-    /* Titulo ONLINE SHOPPING */
+    /* Compras online */
+
 
     position: absolute;
-    width: 120px;
-    height: 13px;
-    left: 234px;
-    top: 32px;
+    width: 200px;
+    height: 22px;
+    left: 262px;
+    top: 46px;
 
     font-family: 'Inter';
     font-style: normal;
-    font-weight: 400;
-    font-size: 11px;
-    line-height: 13px;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.navbar_info h1{
+
+    /* navbar Contato */
+
+
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 2592px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.navbar_info h2{
+
+    /* navbar sobre */
+
+
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 2420px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.navbar_info h3{
+
+    /* navbar sobre */
+
+
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 1100px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.navbar_clases h1{
+
+    /* navbar crianças */
+
+
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 2220px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.navbar_clases h2{
+
+    /* navbar bebes */
+
+
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 2055px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.navbar_clases h3{
+
+    /* navbar meninos */
+
+
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 1855px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.navbar_clases h4{
+
+    /* navbar meninas */
+
+
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 1655px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.navbar_clases h5{
+
+    /* navbar calçados */
+
+
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 1455px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.navbar_clases h6{
+
+    /* navbar ofertas */
+
+
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 1275px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 22px;
+    /* identical to box height */
+
 
     color: #000000;
 
 }
 
 
-#titulo_contato{
-
-    /* Titulo Contato */
-
-    position: absolute;
-    width: 112px;
-    height: 25px;
-    left: 1698px;
-    top: 4px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 25px;
-    
-    color: #000000;
-
-}
-
-#titulo_sobre{
-
-    /* Titulo Sobre */
-
-    position: absolute;
-    width: 93px;
-    height: 25px;
-    left: 1630px;
-    top: 4px;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 25px;
-
-    color: #000000;
-
-}
-
-#titulo_criancas{
-
-    
-    /* Titulo Crianças */
-
-    
-    position: absolute;
-    width: 112px;
-    height: 25px;
-    left: 1542px;
-    top: 4px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 25px;
-    
-    color: #000000;
-
-}
-
-#titulo_meninas{
-
-     /* Titulo Meninas */
-
-     position: absolute;
-     width: 112px;
-     height: 25px;
-     left: 1451px;
-     top: 4px;
-     
-     font-family: 'Inter';
-     font-style: normal;
-     font-weight: 400;
-     font-size: 22px;
-     line-height: 25px;
-     
-     color: #000000;
-
-}
-
-#titulo_meninos{
-
-    /* Titulo Meninos */
-
-    position: absolute;
-    width: 112px;
-    height: 25px;
-    left: 1355px;
-    top: 4px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 25px;
-    
-    color: #000000;
-
-}
-
-#titulo_calcados{
-    
-    /* Titulo calcados */
-
-    position: absolute;
-    width: 112px;
-    height: 25px;
-    left: 1255px;
-    top: 4px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 25px;
-    
-    color: #000000;
-
-}
-
-#titulo_bebes{
-    
-    /* Titulo bebes */
-
-    position: absolute;
-    width: 112px;
-    height: 25px;
-    left: 1185px;
-    top: 4px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 25px;
-    
-    color: #000000;
-
-}
-
-#titulo_home{
-
-    /* Titulo home */
-
-    position: absolute;
-    width: 112px;
-    height: 25px;
-    left: 1110px;
-    top: 4px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 25px;
-    
-    color: #000000;
-
-}
