@@ -293,7 +293,7 @@
 }
 
 
-.cor_1{
+.cor{
 
     /* card cor */
 
@@ -308,7 +308,7 @@
 
 .cards h1{
 
-    /* We Are Hexashop */
+    /* titulo somos */
 
 
     position: absolute;
@@ -331,7 +331,7 @@
 
 .cards p{
 
-    /* Lorem  */
+    /* texto de somos */
 
 
     position: absolute;
@@ -397,9 +397,100 @@
     top: 150px;
 }
 
+.cor_1{
+
+    /* card oferta */
+
+
+    position: absolute;
+    width: 595px;
+    height: 421.5px;
+    left: 1300px;
+    top: 150px;
+
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.card_1 h1{
+
+    /*Titulo oferta */
+
+
+    position: absolute;
+    width: 95px;
+    height: 21.5px;
+    left: 225px;
+    top: 100px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+
+    color: #FFFFFF;
+
+}
+
+.card_1 p{
+
+    /*Subtitulo Ofertas */
+
+
+    position: absolute;
+    width: 425px;
+    height: 21.5px;
+    left: 100px;
+    top: 160px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 60px;
+
+    color: #FFFFFF;
+
+}
+
+   /* animação do botão de Ofertas  */
+
+.container_1 {
+    position: absolute;
+    top: 20%;
+    left: 17%;
+}
+
+.animated-word_1 {
+    font-family: Helvetica;
+    letter-spacing: 0.4em;
+    font-weight: 00px;
+    font-size: 10px;
+    text-align: center;
+    color: #202125;
+  cursor: pointer;
+  min-height: 60px;
+  max-height: 220px;
+  max-width: 230px;  
+  outline: 10px solid;
+  outline-color: rgb(255, 255, 255);
+  outline-offset: px;
+  transition: all 1100ms cubic-bezier(0.2, 0, 0, 0.8);
+}
+.animated-word_1:hover {
+	color: rgba(9, 255, 21, 0.7);
+  outline-color: rgba(71, 126, 232, 0);
+  outline-offset: 100px;
+}
+
+
+/* Fim da animação do botão de Ofertas  */
+
+
+
 .card_2 img{
 
-    /* card teste */
+    /* card Meninas */
 
 
     position: absolute;
@@ -409,9 +500,100 @@
     top: 590px;
 }
 
+.cor_2{
+
+    /* card Meninas*/
+
+
+    position: absolute;
+    width: 595px;
+    height: 421.5px;
+    left: 1300px;
+    top: 590px;
+
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.card_2 h1{
+
+    /*Titulo Meninas */
+
+
+    position: absolute;
+    width: 95px;
+    height: 21.5px;
+    left: 215px;
+    top: 100px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+
+    color: #FFFFFF;
+
+}
+
+.card_2 p{
+
+    /*Subtitulo Meninas */
+
+
+    position: absolute;
+    width: 425px;
+    height: 21.5px;
+    left: 100px;
+    top: 160px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 60px;
+
+    color: #FFFFFF;
+
+}
+
+   /* animação do botão de Meninas  */
+
+   .container_2 {
+    position: absolute;
+    top: 20%;
+    left: 17%;
+}
+
+.animated-word_2 {
+    font-family: Helvetica;
+    letter-spacing: 0.4em;
+    font-weight: 00px;
+    font-size: 10px;
+    text-align: center;
+    color: #202125;
+  cursor: pointer;
+  min-height: 60px;
+  max-height: 220px;
+  max-width: 230px;  
+  outline: 10px solid;
+  outline-color: rgb(255, 255, 255);
+  outline-offset: px;
+  transition: all 1100ms cubic-bezier(0.2, 0, 0, 0.8);
+}
+.animated-word_2:hover {
+	color: rgba(9, 255, 21, 0.7);
+  outline-color: rgba(71, 126, 232, 0);
+  outline-offset: 100px;
+}
+
+
+/* Fim da animação do botão de Meninas  */
+
+
+
 .card_3 img{
 
-    /* card oferta */
+    /* card Meninos  */
 
 
     position: absolute;
@@ -421,9 +603,102 @@
     top: 150px;
 }
 
+
+.cor_3{
+
+    /* card Meninos */
+
+
+    position: absolute;
+    width: 595px;
+    height: 421.5px;
+    left: 2000px;
+    top: 150px;
+
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.card_3 h1{
+
+    /*Titulo Meninos */
+
+
+    position: absolute;
+    width: 95px;
+    height: 21.5px;
+    left: 215px;
+    top: 100px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+
+    color: #FFFFFF;
+
+}
+
+.card_3 p{
+
+    /*Subtitulo  Meninos*/
+
+
+    position: absolute;
+    width: 425px;
+    height: 21.5px;
+    left: 100px;
+    top: 160px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 60px;
+
+    color: #FFFFFF;
+
+}
+
+
+   /* animação do botão de meninos  */
+
+   .container_3 {
+    position: absolute;
+    top: 20%;
+    left: 17%;
+}
+
+.animated-word_3 {
+    font-family: Helvetica;
+    letter-spacing: 0.4em;
+    font-weight: 00px;
+    font-size: 10px;
+    text-align: center;
+    color: #202125;
+  cursor: pointer;
+  min-height: 60px;
+  max-height: 220px;
+  max-width: 230px;  
+  outline: 10px solid;
+  outline-color: rgb(255, 255, 255);
+  outline-offset: px;
+  transition: all 1100ms cubic-bezier(0.2, 0, 0, 0.8);
+}
+.animated-word_3:hover {
+	color: rgba(9, 255, 21, 0.7);
+  outline-color: rgba(71, 126, 232, 0);
+  outline-offset: 100px;
+}
+
+
+/* Fim da animação do botão de meninos  */
+
+
+
 .card_4 img{
 
-    /* card teste */
+    /* card Calçados */
 
 
     position: absolute;
@@ -433,3 +708,107 @@
     top: 593px;
 }
 
+
+.cor_4{
+
+    /* card Calçados */
+
+
+    position: absolute;
+    width: 595px;
+    height: 421.5px;
+    left: 2000px;
+    top: 593px;
+
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.card_4 h1{
+
+    /*Titulo Calçados */
+
+
+    position: absolute;
+    width: 95px;
+    height: 21.5px;
+    left: 205px;
+    top: 100px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+
+    color: #FFFFFF;
+
+}
+
+.card_4 p{
+
+    /*Subtitulo Calçados*/
+
+
+    position: absolute;
+    width: 425px;
+    height: 21.5px;
+    left: 100px;
+    top: 160px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 60px;
+
+    color: #FFFFFF;
+
+}
+
+
+   /* animação do botão de Calçados  */
+
+   .container_4 {
+    position: absolute;
+    top: 20%;
+    left: 17%;
+}
+
+.animated-word_4 {
+    font-family: Helvetica;
+    letter-spacing: 0.4em;
+    font-weight: 00px;
+    font-size: 10px;
+    text-align: center;
+    color: #202125;
+  cursor: pointer;
+  min-height: 60px;
+  max-height: 220px;
+  max-width: 230px;  
+  outline: 10px solid;
+  outline-color: rgb(255, 255, 255);
+  outline-offset: px;
+  transition: all 1100ms cubic-bezier(0.2, 0, 0, 0.8);
+}
+.animated-word_4:hover {
+	color: rgba(9, 255, 21, 0.7);
+  outline-color: rgba(71, 126, 232, 0);
+  outline-offset: 100px;
+}
+
+
+/* Fim da animação do botão de Calçados  */
+
+.cor_pri{
+
+    /* cor pri */
+
+    position: relative;
+    width: 2880px;
+    height: 1900px;
+    top: 1060px;
+
+    background: #D9D9D9;
+
+    
+}
