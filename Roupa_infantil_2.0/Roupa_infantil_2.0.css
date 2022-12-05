@@ -54,7 +54,7 @@
 
 
     position: absolute;
-    width: 200px;
+
     height: 22px;
     left: 269px;
     top: 60px;
@@ -77,7 +77,6 @@
 
 
     position: absolute;
-    width: 200px;
     height: 22px;
     left: 2592px;
     top: 30px;
@@ -100,7 +99,6 @@
 
 
     position: absolute;
-    width: 200px;
     height: 22px;
     left: 2420px;
     top: 30px;
@@ -119,13 +117,12 @@
 
 .navbar_info h3{
 
-    /* navbar sobre */
+    /* navbar inicio */
 
 
     position: absolute;
-    width: 200px;
     height: 22px;
-    left: 1100px;
+    left: 1250px;
     top: 30px;
 
     font-family: 'Inter';
@@ -140,28 +137,6 @@
 
 }
 
-.navbar_clases h1{
-
-    /* navbar crianças */
-
-
-    position: absolute;
-    width: 200px;
-    height: 22px;
-    left: 2220px;
-    top: 30px;
-
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 27px;
-    line-height: 22px;
-    /* identical to box height */
-
-
-    color: #000000;
-
-}
 
 .navbar_clases h2{
 
@@ -169,9 +144,8 @@
 
 
     position: absolute;
-    width: 200px;
     height: 22px;
-    left: 2055px;
+    left: 2220px;
     top: 30px;
 
     font-family: 'Inter';
@@ -192,9 +166,8 @@
 
 
     position: absolute;
-    width: 200px;
     height: 22px;
-    left: 1855px;
+    left: 2015px;
     top: 30px;
 
     font-family: 'Inter';
@@ -215,9 +188,8 @@
 
 
     position: absolute;
-    width: 200px;
     height: 22px;
-    left: 1655px;
+    left: 1815px;
     top: 30px;
 
     font-family: 'Inter';
@@ -238,9 +210,8 @@
 
 
     position: absolute;
-    width: 200px;
     height: 22px;
-    left: 1455px;
+    left: 1615px;
     top: 30px;
 
     font-family: 'Inter';
@@ -261,9 +232,8 @@
 
 
     position: absolute;
-    width: 200px;
     height: 22px;
-    left: 1275px;
+    left: 1425px;
     top: 30px;
 
     font-family: 'Inter';
@@ -387,7 +357,7 @@
 
 .card_1 img{
 
-    /* card oferta */
+    /* card Bebês */
 
 
     position: absolute;
@@ -399,7 +369,7 @@
 
 .cor_1{
 
-    /* card oferta */
+    /* card Bebês*/
 
 
     position: absolute;
@@ -413,7 +383,7 @@
 
 .card_1 h1{
 
-    /*Titulo oferta */
+    /*Titulo Bebês */
 
 
     position: absolute;
@@ -434,7 +404,7 @@
 
 .card_1 p{
 
-    /*Subtitulo Ofertas */
+    /*Subtitulo Bebês */
 
 
     position: absolute;
@@ -556,7 +526,7 @@
 
 }
 
-   /* animação do botão de Meninas  */
+   /* animação do botão de Ofertas   */
 
    .container_2 {
     position: absolute;
@@ -587,7 +557,7 @@
 }
 
 
-/* Fim da animação do botão de Meninas  */
+/* Fim da animação do botão de Ofertas  */
 
 
 
@@ -661,7 +631,7 @@
 }
 
 
-   /* animação do botão de meninos  */
+   /* animação do botão de Ofertas   */
 
    .container_3 {
     position: absolute;
@@ -692,7 +662,7 @@
 }
 
 
-/* Fim da animação do botão de meninos  */
+/* Fim da animação do botão de Ofertas   */
 
 
 
@@ -766,7 +736,7 @@
 }
 
 
-   /* animação do botão de Calçados  */
+   /* animação do botão de Ofertas  */
 
    .container_4 {
     position: absolute;
@@ -797,7 +767,7 @@
 }
 
 
-/* Fim da animação do botão de Calçados  */
+/* Fim da animação do botão de Ofertas   */
 
 .cor_pri{
 
