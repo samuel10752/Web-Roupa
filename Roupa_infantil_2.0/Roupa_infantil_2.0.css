@@ -824,3 +824,24 @@
     
 }
 
+.produto{
+
+    position: absolute;
+    width: 800px;
+    height: 865px;
+    left: 200px;
+    top: 260px;
+    
+    background: #ff0101;
+}
+
+.produto img{
+
+    position: absolute;
+    width: 800px;
+    height: 665px;
+    left: 00px;
+    top: 0px;
+    
+    
+}
