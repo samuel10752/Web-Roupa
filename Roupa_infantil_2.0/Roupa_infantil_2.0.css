@@ -1,13 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:300);
 
-
 .navbar_cor{
 
     /* navbar_cor */
 
 
     position: absolute;
-    width: 2880px;
+    width: 2855px;
     height: 90px;
     left: 0px;
     top: 0px;
@@ -773,8 +772,8 @@
 
     /* cor pri */
 
-    position: relative;
-    width: 2880px;
+    position: absolute;
+    width: 2855px;
     height: 1900px;
     top: 1060px;
 
@@ -782,3 +781,46 @@
 
     
 }
+
+.catalogo h1{
+    
+    /*Titulo Novedade masculina */
+
+
+    position: absolute;
+    width: 595px;
+    height: 21.5px;
+    left: 205px;
+    top: 100px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+
+    color: #000000;
+    
+}
+
+.catalogo p{
+    
+    /*Subtitulo Novedade masculina */
+
+
+    position: absolute;
+    width: 595px;
+    height: 21.5px;
+    left: 205px;
+    top: 150px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 60px;
+
+    color: #000000;
+    
+}
+
