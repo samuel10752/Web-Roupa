@@ -161,7 +161,7 @@
 
 .navbar_clases h3{
 
-    /* navbar meninos */
+    /* navbar calçados */
 
 
     position: absolute;
@@ -205,7 +205,7 @@
 
 .navbar_clases h5{
 
-    /* navbar calçados */
+    /* navbar meninos */
 
 
     position: absolute;
@@ -247,6 +247,18 @@
 
 }
 
+.icon{
+
+    /*icon de carrinho de compras ofertas da semana */
+        
+    position: absolute;
+    height: 3%;
+    width: 2%;
+    left: 2755px;
+    top: 25px;
+
+    
+}
 .cards img{
 
     /* card somos */
@@ -307,12 +319,12 @@
     width: 789px;
     height: 94px;
     left: 130px;
-    top: 390px;
+    top: 393px;
 
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 22px;
+    font-size: 32px;
     line-height: 42px;
 
     color: #FFFFFF;
@@ -784,7 +796,7 @@
 
 .catalogo h1{
     
-    /*Titulo Novedade masculina */
+    /*Titulo ofertas da semana */
 
 
     position: absolute;
@@ -805,7 +817,7 @@
 
 .catalogo p{
     
-    /*Subtitulo Novedade masculina */
+    /*Subtitulo ofertas da semana*/
 
 
     position: absolute;
@@ -826,22 +838,127 @@
 
 .produto{
 
+    /*paleta de fundo ofertas da semana*/
+
     position: absolute;
-    width: 800px;
+    width: 660px;
     height: 865px;
     left: 200px;
     top: 260px;
     
-    background: #ff0101;
+    background: #c4c4c4;
 }
 
 .produto img{
 
+
+    /*Imagem ofertas da semana */
+
     position: absolute;
-    width: 800px;
+    width: 660px;
     height: 665px;
     left: 00px;
     top: 0px;
     
     
 }
+
+.produto h3{
+
+
+    /*titulo ofertas da semana */
+
+    position: absolute;
+    width: 343px;
+    height: 65px;
+    left: 20px;
+    top: 700px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 27px;
+}
+
+
+.produto p{
+
+
+    /*subtitulo ofertas da semana */
+
+    position: absolute;
+    width: 343px;
+    height: 45px;
+    left: 25px;
+    top: 790px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 27px;
+}
+
+.produto .icon_1{
+
+    /*icon de estrela ofertas da semana */
+    
+    position: absolute;
+    width: 166.41px;
+    height: 28px;
+    left: 479px;
+    top: 700px;
+
+}
+
+    /*inicio icon de coração animação ofertas da semana */
+
+.produto .tw-heart-box {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    top: 755px;
+    left: 520px;
+    display: inline-block;
+  }
+  
+  .produto  .tw-heart {
+    background: url(icon/coração.png) no-repeat 0 0;
+    display: inline-block;
+    width: inherit;
+    height: 311%;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  
+  [type="checkbox"]:checked + .tw-heart {
+    transition: background .8s steps(28);
+    background-position: -2800px 0;
+  }
+  
+  [type="checkbox"] {
+    opacity: 0;
+    cursor: pointer;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    width: 40%;
+    height: 40%;
+    z-index: 1;
+  }
+
+      /* Fim icon de coração animação ofertas da semana */
+
+.icon_2{
+
+    /*icon de carrinho de compras ofertas da semana */
+        
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 1050px;
+    left: 805px;
+
+    }
