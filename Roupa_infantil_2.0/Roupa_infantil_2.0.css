@@ -859,16 +859,13 @@
 .carousel {
   width: 100%;
   height: 100%;
-  margin-top: 5%;
+  margin-top: 25%;
   position: relative;
   overflow-y: hidden;
-  display: flex;
   gap: 1em;
   scrollbar-width: none;
 }
 
-.carousel {
-}
 
 .arrows {
   width: 120px;
@@ -948,104 +945,3 @@
   }
 }
 
-.produto h3{
-
-
-    /*titulo ofertas da semana */
-
-    position: absolute;
-    width: 343px;
-    height: 65px;
-    left: 20px;
-    top: 640px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 42px;
-    line-height: 27px;
-}
-
-
-.produto p{
-
-
-    /*subtitulo ofertas da semana */
-
-    position: absolute;
-    width: 343px;
-    height: 45px;
-    left: 25px;
-    top: 725px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 32px;
-    line-height: 27px;
-}
-
-.produto .icon_1{
-
-    /*icon de estrela ofertas da semana */
-    
-    position: absolute;
-    width: 166.41px;
-    height: 28px;
-    left: 419px;
-    top: 685px;
-
-}
-
-    /*inicio icon de coração animação ofertas da semana */
-
-.produto .tw-heart-box {
-    position: relative;
-    width: 100px;
-    height: 100px;
-    top: 65px;
-    left: 470px;
-    display: inline-block;
-  }
-  
-  .produto  .tw-heart {
-    background: url(/Roupa_infantil_2.0/icon/coração.png) no-repeat 0 0;
-    display: inline-block;
-    width: inherit;
-    height: 311%;
-    position: absolute;
-    left: 0;
-    top: 0;
-  }
-  
-  [type="checkbox"]:checked + .tw-heart {
-    transition: background .8s steps(28);
-    background-position: -2800px 0;
-  }
-  
-  [type="checkbox"] {
-    opacity: 0;
-    cursor: pointer;
-    position: absolute;
-    top: 30%;
-    left: 30%;
-    width: 40%;
-    height: 40%;
-    z-index: 1;
-  }
-
-      /* Fim icon de coração animação ofertas da semana */
-
-.icon_1{
-
-    /*icon de carrinho de compras ofertas da semana */
-        
-    position: absolute;
-    width: 30px;
-    height: 30px;
-    top: 755px;
-    left: 550px;
-
-    }
-
- 
