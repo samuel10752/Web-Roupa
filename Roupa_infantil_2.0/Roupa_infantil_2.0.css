@@ -33,7 +33,7 @@
     width: 191px;
     height: 22px;
     left: 265px;
-    top: 33px;
+    top: 0px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -56,7 +56,7 @@
 
     height: 22px;
     left: 269px;
-    top: 60px;
+    top: 40px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -78,7 +78,7 @@
     position: absolute;
     height: 22px;
     left: 2592px;
-    top: 30px;
+    margin-top: 30px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -100,7 +100,7 @@
     position: absolute;
     height: 22px;
     left: 2420px;
-    top: 30px;
+    margin-top: 30px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -122,7 +122,7 @@
     position: absolute;
     height: 22px;
     left: 1250px;
-    top: 30px;
+    margin-top: 30px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -145,7 +145,7 @@
     position: absolute;
     height: 22px;
     left: 2220px;
-    top: 30px;
+    margin-top: 30px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -167,7 +167,7 @@
     position: absolute;
     height: 22px;
     left: 2015px;
-    top: 30px;
+    margin-top: 29px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -189,7 +189,7 @@
     position: absolute;
     height: 22px;
     left: 1815px;
-    top: 30px;
+    margin-top: 29px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -211,7 +211,7 @@
     position: absolute;
     height: 22px;
     left: 1615px;
-    top: 30px;
+    margin-top: 29px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -233,7 +233,7 @@
     position: absolute;
     height: 22px;
     left: 1425px;
-    top: 30px;
+    margin-top: 30px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -247,15 +247,13 @@
 
 }
 
-.icon{
+.carrinho{
 
     /*icon de carrinho de compras ofertas da semana */
         
     position: absolute;
-    height: 3%;
-    width: 2%;
     left: 2755px;
-    top: 25px;
+    top: 10px;
 
     
 }
@@ -785,8 +783,8 @@
     /* cor pri */
 
     position: absolute;
-    width: 2855px;
-    height: 1900px;
+    width: 2847px;
+    height: 1400px;
     top: 1060px;
 
     background: #D9D9D9;
@@ -834,114 +832,5 @@
 
     color: #000000;
     
-}
-
-
-
-
-
-.carousel-wrapper {
-  display: flex;
-  justify-content: space-between;
-  gap: 0.5em;
-  max-width: 3900px;
-  width: 100%;
-}
-
-
-.wrapped-container {
-  display: flex;
-  overflow: hidden;
-  width: 195%;
-  justify-content: center;
-}
-
-.carousel {
-  width: 100%;
-  height: 100%;
-  margin-top: 25%;
-  position: relative;
-  overflow-y: hidden;
-  gap: 1em;
-  scrollbar-width: none;
-}
-
-
-.arrows {
-  width: 120px;
-  height: 125px;
-  outline: none;
-  border: none;
-  background-color: #c3606000;
-  border-radius: 5px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  align-self: center;
-  opacity: 1;
-  cursor: pointer;
-  transition: all 0.1s ease;
-  padding: 0;
-  pointer-events: all;
-}
-
-
-
-.arrows svg {
-  width: 7.5em;
-  height: 7.5em;
-  fill: rgb(149, 149, 149);
-}
-
-.arrow-inactive {
-  opacity: 0.5;
-  cursor: auto;
-}
-
-.arrow-inactive:hover {
-  transform: none;
-}
-
-.carousel-item {
-  width: 800px;
-  height:790px;
-}
-
-.carousel-item img {
-  border-radius: 10pt;
-}
-
-
-
-.carousel-wrapper.scrollbar-overflow ::-webkit-scrollbar {
-  height: 6px;
-}
-
-.carousel-wrapper ::-webkit-scrollbar {
-  height: 0px;
-}
-
-.carousel-wrapper ::-webkit-scrollbar-track {
-  background: #c0b6af;
-  border-radius: 10pt;
-}
-
-.carousel-wrapper ::-webkit-scrollbar-thumb {
-  background: #5e4c5a;
-  border-radius: 10pt;
-}
-
-.carousel-wrapper ::-webkit-scrollbar-thumb:hover {
-  background: #2d242b;
-}
-
-@media (pointer: coarse) {
-  .carousel {
-    overflow-x: auto;
-    scrollbar-width: thin;
-  }
-  .carousel-wrapper ::-webkit-scrollbar {
-    height: 6px;
-  }
 }
 
