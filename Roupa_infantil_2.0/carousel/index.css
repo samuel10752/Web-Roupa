@@ -199,13 +199,13 @@ body {
     position: relative;
     width: 100px;
     height: 100px;
-    top: 65px;
+    margin-top: -24px;
     left: 470px;
     display: inline-block;
   }
   
   .produto  .tw-heart {
-    background: url(/Roupa_infantil_2.0/icon/coração.png) no-repeat 0 0;
+    background: url(/Roupa_infantil_2.0/icon/icon_carousel/coração.png) no-repeat 0 0;
     display: inline-block;
     width: inherit;
     height: 311%;
@@ -231,6 +231,35 @@ body {
   }
 
       /* Fim icon de coração animação ofertas da semana */
+
+      /* inicio da animação  de estrela  */
+.avaliacao{
+  display: flex;
+  margin-left: 58%;
+  margin-top: 1%;
+ }
+.star-icon{
+  list-style-type: none;
+  cursor: pointer;
+  color: #ffe500;
+  background-color: #dbd5d1;
+  font-size: 50px;/* alterar o tamanho das estrelas */
+}
+.star-icon::before{
+  content: "\2605";
+}
+.star-icon.ativo ~ .star-icon::before{
+  content: "\2606";
+}
+.avaliacao:hover .star-icon::before{
+  content: "\2605";
+}
+.star-icon:hover ~ .star-icon::before{
+  content: "\2606";
+}
+
+      /* Fim da animação  de estrela  */
+
 
 .icon_1{
 
@@ -299,13 +328,13 @@ body {
         position: relative;
         width: 100px;
         height: 100px;
-        top: 65px;
+        margin-top: -24px;
         left: 470px;
         display: inline-block;
       }
       
       .produto_2 .tw-heart {
-        background: url(/Roupa_infantil_2.0/icon/coração.png) no-repeat 0 0;
+        background: url(/Roupa_infantil_2.0/icon/icon_carousel/coração.png) no-repeat 0 0;
         display: inline-block;
         width: inherit;
         height: 311%;
@@ -402,13 +431,13 @@ body {
             position: relative;
             width: 100px;
             height: 100px;
-            top: 65px;
+            margin-top: -24px;
             left: 470px;
             display: inline-block;
           }
           
           .produto_3 .tw-heart {
-            background: url(/Roupa_infantil_2.0/icon/coração.png) no-repeat 0 0;
+            background: url(/Roupa_infantil_2.0/icon/icon_carousel/coração.png) no-repeat 0 0;
             display: inline-block;
             width: inherit;
             height: 311%;
@@ -501,13 +530,13 @@ body {
         position: relative;
         width: 100px;
         height: 100px;
-        top: 65px;
+        margin-top: -24px;
         left: 470px;
         display: inline-block;
       }
       
       .produto_4 .tw-heart {
-        background: url(/Roupa_infantil_2.0/icon/coração.png) no-repeat 0 0;
+        background: url(/Roupa_infantil_2.0/icon/icon_carousel/coração.png) no-repeat 0 0;
         display: inline-block;
         width: inherit;
         height: 311%;
@@ -599,13 +628,13 @@ body {
             position: relative;
             width: 100px;
             height: 100px;
-            top: 65px;
+            margin-top: -24px;
             left: 470px;
             display: inline-block;
           }
           
           .produto_5 .tw-heart {
-            background: url(/Roupa_infantil_2.0/icon/coração.png) no-repeat 0 0;
+            background: url(/Roupa_infantil_2.0/icon/icon_carousel/coração.png) no-repeat 0 0;
             display: inline-block;
             width: inherit;
             height: 311%;
